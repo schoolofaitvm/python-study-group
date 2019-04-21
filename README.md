@@ -11,20 +11,28 @@ It is a 12-week course, where you will learn to use Python professionally. Exter
 
 > You can find the complete playlist from this [link](<https://www.youtube.com/playlist?list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r>) .
 
-| Order           | Topic                                                 | Video               | Exercise                                                     |
-| --------------- | ----------------------------------------------------- | ------------------- | ------------------------------------------------------------ |
-| **Week 1**      | About Python, Python Setup and Fundamentals.          | [Week 1] , [Week 2] | [Assignment](<https://github.com/schoolofaitvm/python-study-group/tree/master/Week%201>) |
-| **Week 2**      | Data Types                                            | [Week 1] , [Week 2] | [Assignment](<https://github.com/schoolofaitvm/python-study-group/tree/master/Week%202>) |
-| **Week 3**      | Control Flow Statements                               |                     |                                                              |
-| **Week 4**      | Control Flow Statements, Different Types of Operators |                     |                                                              |
-| **Week 5**      | Functions                                             |                     |                                                              |
-| **Week 6, 7**   | Object-Oriented Programming                           |                     |                                                              |
-| **Week 8**      | Modules and Packages                                  |                     |                                                              |
-| **Week 9**      | Errors and Exception Handling                         |                     |                                                              |
-| **Week 10**     | Generators and Decorators                             |                     |                                                              |
-| **Week 11, 12** | Introduction to Advanced Python Modules               |                     |                                                              |
+| Order                  | Topic                                        | Video                     | Exercise                                                     |
+| ---------------------- | -------------------------------------------- | ------------------------- | ------------------------------------------------------------ |
+| **Week 1**             | About Python, Python Setup and Fundamentals. | [Part 1][1] , [Part 2][2] | [Assignment](<https://github.com/schoolofaitvm/python-study-group/tree/master/Week%201>) |
+| **Week 2**, **Week 3** | Data Types, Different Types of Operators     | [Part 1][3] , [Part 2][4] | [Assignment](<https://github.com/schoolofaitvm/python-study-group/tree/master/Week%202>) |
+| **Week 4**             | Control Flow Statements                      | [Part 1][5]               |                                                              |
+| **Week 5**             | Functions                                    | [Part 1][6]               |                                                              |
+| **Week 6, 7**          | Object-Oriented Programming                  | [Part 1][7]               |                                                              |
+| **Week 8**             | Modules and Packages                         | [Part 1][8]               |                                                              |
+| **Week 9**             | Errors and Exception Handling                |                           |                                                              |
+| **Week 10**            | Generators and Decorators                    |                           |                                                              |
+| **Week 11, 12**        | Introduction to Advanced Python Modules      |                           |                                                              |
 
-
+[1]: https://www.youtube.com/watch?v=mYPBB6v0SHc&list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r
+[2]: https://www.youtube.com/watch?v=86ZjQY0KI8Q&amp;list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r&amp;index=2
+[3]: https://www.youtube.com/watch?v=oUFNQqj_jjY&list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r&index=3
+[4]: <https://www.youtube.com/watch?v=BL37XePpR0M&list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r&index=4>
+[5]: <https://www.youtube.com/watch?v=q8qjxKLwQBI&list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r&index=5>
+[6]: <https://www.youtube.com/watch?v=XuRt8kAOB2E&list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r&index=6>
+[7]: <https://www.youtube.com/watch?v=wRV4g5c10RA&list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r&index=7>
+[8]: <https://www.youtube.com/watch?v=JXUlNF1RJe4&list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r&index=8>
+[9]: <https://www.youtube.com/watch?v=nKqsPRIRsX4&list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r&index=9>
+[10]:  <https://www.youtube.com/watch?v=rPolMjtJFp0&list=PLmyFsOpNt6nf2AypXQ1mMB95c_7wbPj_r&index=10>
 
 ## How does this study group work?
 
